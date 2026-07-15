@@ -1,0 +1,28 @@
+{
+  "feature_min": [
+    -50.0,
+    -50.0,
+    -1320.780029296875,
+    0.0,
+    0.0
+  ],
+  "feature_range": [
+    1848.6600341796875,
+    1841.1600341796875,
+    2474.93994140625,
+    0.0,
+    1.0
+  ],
+  "target_min": -300.0,
+  "target_range": 600.0,
+  "feature_cols": [
+    "ahead_price_data",
+    "real_price_data",
+    "price_spread",
+    "block_weight",
+    "is_workday"
+  ],
+  "input_len": 672,
+  "output_len": 96,
+  "feature_dim": 5
+}
